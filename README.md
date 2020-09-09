@@ -1,2 +1,4 @@
-# Clothing_EDA
-EDA of Clothing data that included reviews and ratings.
+# Exploratory Data Analysis of Clothing Dataset
+
+## Data
+
