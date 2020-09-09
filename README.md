@@ -12,21 +12,13 @@
 Features                                       |   Description
 :---------------------------------------------:|:-------------------------:
 Clothing ID                                    |   Unique Key
-:---------------------------------------------:|:-------------------------:
 AGE                                            |   Age of Reviewers
-:---------------------------------------------:|:-------------------------:
 Title                                          |   Title of Text
-:---------------------------------------------:|:-------------------------:
 Review Text                                    |   Reviews
-:---------------------------------------------:|:-------------------------:
 Rating                                         |   Ratings by reviewers
-:---------------------------------------------:|:-------------------------:
 Recommended IND                                |   Recommended or not
-:---------------------------------------------:|:-------------------------:
 Division Name                                  |   Name of Product Division
-:---------------------------------------------:|:-------------------------:
 Department Name                                |   Product Departments
-:---------------------------------------------:|:-------------------------:
 Class Name                                     |   Class of Products
 
 ## Data after preprocessing
@@ -35,9 +27,7 @@ Class Name                                     |   Class of Products
 Features                                       |   Description
 :---------------------------------------------:|:-------------------------:
 Polarity                                       |  Sentiment score of Reviews 
-:---------------------------------------------:|:-------------------------:
 Review Length                                  |  Length in characters of Review
-:---------------------------------------------:|:-------------------------:
 Word Count                                     |  Number of words in Review
 
 ## Top Five Positive Reviews with highest Polarity
