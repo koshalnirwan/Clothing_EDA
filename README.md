@@ -9,9 +9,6 @@
 
 ## Original Data
 
-<img src="images/org_data.JPG" width=1000 height=300>
-
-
 Features                                       |   Description
 :---------------------------------------------:|:-------------------------:
 Clothing ID                                    |   Unique Key
@@ -26,9 +23,6 @@ Class Name                                     |   Class of Products
 
 
 ## Data after preprocessing
-
-<img src="images/clean_data.JPG" width=1000 height=300>
-
 
 Features                                       |   Description
 :---------------------------------------------:|:-------------------------:
